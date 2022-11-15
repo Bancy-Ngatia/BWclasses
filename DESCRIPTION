@@ -1,0 +1,14 @@
+Package: BWclasses
+Type: Package
+Title: Classifying Birthweights Based on Centiles From a Standard Population
+Version: 0.1.0
+Author: Bancy Ngatia
+Maintainer: Bancy Ngatia <ms.bancy@gmail.com>
+Description: Classifies newborn birthweights using provided centiles from a standard population.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+   dplyr,
+   utils
+RoxygenNote: 7.1.1
